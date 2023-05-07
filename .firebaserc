@@ -1,0 +1,14 @@
+{
+  "projects": {
+    "default": "nilsreichardt"
+  },
+  "targets": {
+    "nilsreichardt": {
+      "hosting": {
+        "flutter-second-load-bug": [
+          "flutter-second-load-bug"
+        ]
+      }
+    }
+  }
+}
